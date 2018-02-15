@@ -4,7 +4,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
- array = [item1, item2]
+ array = ['item1', 'item2']
  return array
 end
 
